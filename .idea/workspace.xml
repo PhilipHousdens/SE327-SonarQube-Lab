@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfc9e550-3111-4ea7-8ba0-5d681abd0f8f" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/build.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/se327sonarqubelab/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/se327sonarqubelab/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/se327sonarqubelab/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/se327sonarqubelab/AdvanceCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/se327sonarqubelab/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/se327sonarqubelab/hello-view.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="cfc9e550-3111-4ea7-8ba0-5d681abd0f8f" name="Changes" comment="added javafx dependencies" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727677883631</updated>
-      <workItem from="1727677885234" duration="1937000" />
+      <workItem from="1727677885234" duration="2291000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1727677935762</created>
@@ -60,7 +51,21 @@
       <option name="project" value="LOCAL" />
       <updated>1727677935762</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="upadte build and pom file">
+      <created>1727680069054</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727680069054</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added javafx dependencies">
+      <created>1727680180373</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727680180373</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,6 +73,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="upadte build and pom file" />
+    <MESSAGE value="added javafx dependencies" />
+    <option name="LAST_COMMIT_MESSAGE" value="added javafx dependencies" />
   </component>
 </project>
