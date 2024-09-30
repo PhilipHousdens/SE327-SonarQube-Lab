@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfc9e550-3111-4ea7-8ba0-5d681abd0f8f" name="Changes" comment="fix workspace.xml" />
+    <list default="true" id="cfc9e550-3111-4ea7-8ba0-5d681abd0f8f" name="Changes" comment="change branches main to master">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/se327sonarqubelab/AdvanceCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/se327sonarqubelab/AdvanceCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/se327sonarqubelab/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/se327sonarqubelab/Calculator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727677883631</updated>
-      <workItem from="1727677885234" duration="2972000" />
+      <workItem from="1727677885234" duration="3413000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1727677935762</created>
@@ -80,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1727680566023</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="change branches main to master">
+      <created>1727681121394</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727681121394</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +102,7 @@
     <MESSAGE value="upadte build and pom file" />
     <MESSAGE value="added javafx dependencies" />
     <MESSAGE value="fix workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix workspace.xml" />
+    <MESSAGE value="change branches main to master" />
+    <option name="LAST_COMMIT_MESSAGE" value="change branches main to master" />
   </component>
 </project>

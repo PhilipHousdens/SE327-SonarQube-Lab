@@ -1,7 +1,5 @@
 package com.example.se327sonarqubelab;
 
-import javafx.fxml.FXML;
-import javafx.scene.control.Label;
 
 public class AdvanceCalculator extends Calculator {
     public double power(int base, int exponent) {
