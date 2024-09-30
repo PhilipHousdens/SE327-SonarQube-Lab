@@ -1,0 +1,16 @@
+package com.example.se327sonarqubelab;
+
+import javafx.fxml.FXML;
+import javafx.scene.control.Label;
+
+public class AdvanceCalculator extends Calculator {
+    public double power(int base, int exponent) {
+        return Math.pow(base, exponent);
+    }
+    public double sqrt(int a) throws IllegalArgumentException {
+        if (a < 0) {
+            throw new IllegalArgumentException("Cannot calculate square root of a negative number.");
+        }
+        return Math.sqrt(a);
+    }
+}
