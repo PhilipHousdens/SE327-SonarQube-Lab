@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfc9e550-3111-4ea7-8ba0-5d681abd0f8f" name="Changes" comment="added javafx dependencies" />
+    <list default="true" id="cfc9e550-3111-4ea7-8ba0-5d681abd0f8f" name="Changes" comment="fix workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2mmNdw0fbVNqGqMW7Dj2u7PKb25" />
@@ -42,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727677883631</updated>
-      <workItem from="1727677885234" duration="2291000" />
+      <workItem from="1727677885234" duration="2625000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1727677935762</created>
@@ -65,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1727680180373</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix workspace.xml">
+      <created>1727680252542</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727680252542</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +83,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="upadte build and pom file" />
     <MESSAGE value="added javafx dependencies" />
-    <option name="LAST_COMMIT_MESSAGE" value="added javafx dependencies" />
+    <MESSAGE value="fix workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix workspace.xml" />
   </component>
 </project>
